@@ -54,7 +54,7 @@ The goal is to create from the source files a library called *libft.a* that I ca
 
 To create that library, first clone this repo and **cd** into the directory. Then call make:
 
-	git clone https://github.com/R4meau/libft
+	git clone https://github.com/beasleyz/42_libft
 	cd libft
 	make
 
